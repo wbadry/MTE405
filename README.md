@@ -1,7 +1,9 @@
 # MTE405 Labs - Spring 2019
 
 This is *the official repository of MTE 405 Sensors and Measurenents* course. All labs will be added after sessions.
+## Software to run labs
 
+ - MATLAB R2017b or higher.
 ## How to get updated labs
 
  
@@ -17,3 +19,5 @@ This is *the official repository of MTE 405 Sensors and Measurenents* course. Al
 
 ## Course Updates
 **2/3/2019** - Added Lab 1 presentation and lab solution
+
+**6/3/2019** - Added Lab 2 presentation and lab solution
