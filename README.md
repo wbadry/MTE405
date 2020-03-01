@@ -1,4 +1,4 @@
-# MTE405 Labs - Spring 2019
+# MTE405 Labs - Spring 2020
 
 This is *the official repository of MTE 405 Sensors and Measurenents* course. All labs will be added after sessions.
 ## Software to run labs
@@ -18,16 +18,5 @@ This is *the official repository of MTE 405 Sensors and Measurenents* course. Al
 
 
 ## Course Updates
-**02/03/2019**	-	Added Lab 1 presentation and lab solution
+**01/03/2020**	-	Added Lab 1 and Lab 2
 
-**06/03/2019**	-	Added Lab 2 presentation and lab solution
-
-**12/03/2019**	-	Added Lab 3 presentation and lab solution
-
-**26/03/2019** 	-	Added Lab 4 presentation and lab solution
-
-**09/04/2019** 	-  	Added Lab 5 presentation and lab solution
-
-**22/04/2019** 	-  	Added Lab 6 presentation and lab solution
-
-**29/04/2019** 	-  	Added Lab 7 presentation and lab solution
