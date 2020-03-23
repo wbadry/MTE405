@@ -22,3 +22,5 @@ This is *the official repository of MTE 405 Sensors and Measurenents* course. Al
 
 **18/03/2020**	-	COVID19 Announcement
 
+**24/03/2020**	-	LAB 2 with voice and assignment.
+
