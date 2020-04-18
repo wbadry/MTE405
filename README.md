@@ -26,6 +26,8 @@ This is *the official repository of MTE 405 Sensors and Measurenents* course. Al
 
 **24/03/2020**	-	rest of LAB 2 with voice and assignment.
 
-**02/04/2020**	-	Added Lab 3 with Voice.
+**02/04/2020**	-	Added Lab 3 with Voice and assignment.
 
-**11/04/2020**	-	Added Lab 4 with Voice.
+**11/04/2020**	-	Added Lab 4 with Voice and assignment.
+
+**18/04/2020**	-	Added Lab 5 with Voice and assignment.
